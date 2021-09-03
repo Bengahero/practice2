@@ -15,7 +15,7 @@ public class BaseTest {
     public void setup(){
         WebDriverManager.chromedriver().setup();
         ChromeOptions options = new ChromeOptions();
-        //options.addArguments("--headless");
+        options.addArguments("--headless");
         options.addArguments("--incognito");
         options.addArguments("--disable-notifications");
         WebDriver driver = new ChromeDriver(options);
