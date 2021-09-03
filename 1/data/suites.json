@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Tests.Tests",
+    "children" : [ {
+      "name" : "radioButtonTest()",
+      "uid" : "b3221643298b6e54",
+      "parentUid" : "779238f160d20968b82eb32aa668f856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630657789836,
+        "stop" : 1630657794574,
+        "duration" : 4738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findRadioButtonsTextTest()",
+      "uid" : "2f6e4e066a319fed",
+      "parentUid" : "779238f160d20968b82eb32aa668f856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630659513620,
+        "stop" : 1630659518935,
+        "duration" : 5315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "779238f160d20968b82eb32aa668f856"
+  } ],
+  "name" : "suites"
+}

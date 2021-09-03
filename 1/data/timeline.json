@@ -1,0 +1,162 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Bence-MacBook-Air.local",
+    "children" : [ {
+      "name" : "13168@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "findRadioButtonsTextTest()",
+        "uid" : "bff70a0decb3a830",
+        "parentUid" : "e36a7a686bc81f48f3a7b0d7bb43fb8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630658472353,
+          "stop" : 1630658477947,
+          "duration" : 5594
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e36a7a686bc81f48f3a7b0d7bb43fb8a"
+    }, {
+      "name" : "13128@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "findRadioButtonsTextTest()",
+        "uid" : "e33acca8b280fdbd",
+        "parentUid" : "35ba69217961b02aa78f4a528b149a7f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630658427808,
+          "stop" : 1630658432823,
+          "duration" : 5015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35ba69217961b02aa78f4a528b149a7f"
+    }, {
+      "name" : "12679@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "radioButtonTest()",
+        "uid" : "d25bd1aba7b10e4a",
+        "parentUid" : "468d3ef97d30c52f7a1fdf7fa4e74399",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630657038474,
+          "stop" : 1630657046477,
+          "duration" : 8003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "468d3ef97d30c52f7a1fdf7fa4e74399"
+    }, {
+      "name" : "12833@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "radioButtonTest()",
+        "uid" : "adf0e6a0e532a2a0",
+        "parentUid" : "92257309ebbc51e25fbafe625fef7c3c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630657615690,
+          "stop" : 1630657621221,
+          "duration" : 5531
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92257309ebbc51e25fbafe625fef7c3c"
+    }, {
+      "name" : "13448@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "findRadioButtonsTextTest()",
+        "uid" : "2f6e4e066a319fed",
+        "parentUid" : "af1236e6538717bca8947e219f8d05c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630659513620,
+          "stop" : 1630659518935,
+          "duration" : 5315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af1236e6538717bca8947e219f8d05c9"
+    }, {
+      "name" : "12867@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "radioButtonTest()",
+        "uid" : "65fb3b9df6eb409b",
+        "parentUid" : "21593502071f2dddbb50014d74a705fb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630657664891,
+          "stop" : 1630657670064,
+          "duration" : 5173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21593502071f2dddbb50014d74a705fb"
+    }, {
+      "name" : "12949@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "radioButtonTest()",
+        "uid" : "b3221643298b6e54",
+        "parentUid" : "effca1542386ca3a4c1b9d889013ad46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630657789836,
+          "stop" : 1630657794574,
+          "duration" : 4738
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "effca1542386ca3a4c1b9d889013ad46"
+    }, {
+      "name" : "12898@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "radioButtonTest()",
+        "uid" : "d2b66a8e75b9a690",
+        "parentUid" : "b92d7e9e3667b5d74840e22fb1b2c6f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630657707963,
+          "stop" : 1630657712526,
+          "duration" : 4563
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b92d7e9e3667b5d74840e22fb1b2c6f6"
+    }, {
+      "name" : "13205@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)",
+      "children" : [ {
+        "name" : "findRadioButtonsTextTest()",
+        "uid" : "8c8acd56deb925a7",
+        "parentUid" : "a1afef3fa901c2a004ca54ca14198d98",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630658520693,
+          "stop" : 1630658526390,
+          "duration" : 5697
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1afef3fa901c2a004ca54ca14198d98"
+    } ],
+    "uid" : "7b2247c39606d8af9f61bf8613d9e154"
+  } ],
+  "name" : "timeline"
+}

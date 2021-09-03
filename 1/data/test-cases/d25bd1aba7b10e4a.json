@@ -1,0 +1,70 @@
+{
+  "uid" : "d25bd1aba7b10e4a",
+  "name" : "radioButtonTest()",
+  "fullName" : "Tests.Tests.radioButtonTest",
+  "historyId" : "cc4e8f28a5bf60f5ea52013bb201a8e8",
+  "time" : {
+    "start" : 1630657038474,
+    "stop" : 1630657046477,
+    "duration" : 8003
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1630657038547,
+      "stop" : 1630657044888,
+      "duration" : 6341
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Bence-MacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "12679@Bence-MacBook-Air.local.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "Tests.Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "radioButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "Tests.Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d25bd1aba7b10e4a.json",
+  "parameterValues" : [ ]
+}

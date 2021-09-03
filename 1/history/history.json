@@ -1,0 +1,42 @@
+{
+  "cc4e8f28a5bf60f5ea52013bb201a8e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3221643298b6e54",
+      "reportUrl" : "https://Bengahero.github.io/practice2/1//#testresult/b3221643298b6e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630657789836,
+        "stop" : 1630657794574,
+        "duration" : 4738
+      }
+    } ]
+  },
+  "4e786bd1ac2ad8ea9bccd9e53159f82e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f6e4e066a319fed",
+      "reportUrl" : "https://Bengahero.github.io/practice2/1//#testresult/2f6e4e066a319fed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630659513620,
+        "stop" : 1630659518935,
+        "duration" : 5315
+      }
+    } ]
+  }
+}

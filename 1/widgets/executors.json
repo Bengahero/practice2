@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Bengahero.github.io/practice2",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1197408245",
+  "buildUrl" : "https://github.com/Bengahero/practice2/actions/runs/1197408245",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Bengahero.github.io/practice2/1/"
+} ]
