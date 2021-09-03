@@ -1,0 +1,21 @@
+[ {
+  "uid" : "3626d1bcc84b915e",
+  "name" : "findRadioButtonsTextTest()",
+  "time" : {
+    "start" : 1630660786346,
+    "stop" : 1630660786570,
+    "duration" : 224
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "68c002419a6becfe",
+  "name" : "radioButtonTest()",
+  "time" : {
+    "start" : 1630660785442,
+    "stop" : 1630660786268,
+    "duration" : 826
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
